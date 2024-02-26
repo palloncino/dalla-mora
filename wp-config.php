@@ -26,7 +26,7 @@ define( 'DB_NAME', 'dalla-mora-database' );
 define( 'DB_USER', 'dalla-mora-admin' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'O@M365763V' );
+define( 'DB_PASSWORD', '' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
